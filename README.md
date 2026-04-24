@@ -28,56 +28,32 @@
 
 <p align="center"><strong>Languages</strong></p>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,py,go,java,html,css,bash&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,py,go,java,html,css,bash&theme=light" />
-    <img src="https://skillicons.dev/icons?i=js,ts,py,go,java,html,css,bash" alt="Languages" />
-  </picture>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,py,go,java,html,css,bash&theme=dark" alt="Languages" /></a>
 </p>
 
 <p align="center"><strong>Frontend</strong></p>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,nuxtjs,svelte,vue,electron&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,nuxtjs,svelte,vue,electron&theme=light" />
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nuxtjs,svelte,vue,electron" alt="Frontend" />
-  </picture>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,nuxtjs,svelte,vue,electron&theme=dark" alt="Frontend" /></a>
 </p>
 
 <p align="center"><strong>Backend</strong></p>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,spring,graphql&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,spring,graphql&theme=light" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,spring,graphql" alt="Backend" />
-  </picture>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,spring,graphql&theme=dark" alt="Backend" /></a>
 </p>
 
 <p align="center"><strong>Databases</strong></p>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase&theme=light" />
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase" alt="Databases" />
-  </picture>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase&theme=dark" alt="Databases" /></a>
 </p>
 
 <p align="center"><strong>DevOps & Cloud</strong></p>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,nginx,linux&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,nginx,linux&theme=light" />
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,nginx,linux" alt="DevOps & Cloud" />
-  </picture>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,nginx,linux&theme=dark" alt="DevOps & Cloud" /></a>
 </p>
 
 <p align="center"><strong>Tools</strong></p>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,postman,figma,ps,ai,jest,kafka,appwrite&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,postman,figma,ps,ai,jest,kafka,appwrite&theme=light" />
-    <img src="https://skillicons.dev/icons?i=git,postman,figma,ps,ai,jest,kafka,appwrite" alt="Tools" />
-  </picture>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,postman,figma,ps,ai,jest,kafka,appwrite&theme=dark" alt="Tools" /></a>
 </p>
 
 ---
